@@ -1,5 +1,7 @@
 # Simulacao-de-jogo-rpg
 
+Projeto da disciplina Programação e Desenvolvimendo de Software 2, do curso de bacharelado em Sistemas da Informação da Universidade Federal de Minas Gerais - UFMG.
+
 ## Objetivo
 
 Esse exercício implementa uma hierarquia polimórfica para um jogo de combate de fantasia RPG. 
